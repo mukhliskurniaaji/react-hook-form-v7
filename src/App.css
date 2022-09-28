@@ -10,10 +10,11 @@ body {
   align-items: center;
   height: 100vh;
   margin: auto;
+  width: 50%;
 }
 
 .container > form {
-  width: 50%;
+  width: 100%;
   border: 1px solid #dfdfdf;
   padding: 20px;
   border-radius: 5px;
